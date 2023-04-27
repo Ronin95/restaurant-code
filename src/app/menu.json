@@ -237,8 +237,19 @@
                 "sideeffects": []
             },
             {
-                "name": "Chicken Parmesan",
-                "price": 14.99,
+                "name": "Backhuhn",
+                "price": 12.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": ["Beilage mit Pommes Frites oder Salatgarnierung oder Zwiebeln"],
+                "sideeffects": []
+            },
+            {
+                "name": "Gebackene Hühnerleber",
+                "price": 9.80,
                 "allergene": [
 
                 ],
@@ -246,8 +257,8 @@
                 "sideeffects": []
             },
             {
-                "name": "Chicken Parmesan",
-                "price": 14.99,
+                "name": "Paprika gefüllt mit Fleisch",
+                "price": 8.10,
                 "allergene": [
 
                 ],
@@ -255,45 +266,336 @@
                 "sideeffects": []
             },
             {
-                "name": "Chicken Parmesan",
-                "price": 14.99,
+                "name": "Krautroulade",
+                "price": 7.90,
                 "allergene": [
-
+                    "Enthält Schwefeldioxid/Sulfite"
                 ],
-                "notes": [],
-                "sideeffects": []
-            },
-            {
-                "name": "Chicken Parmesan",
-                "price": 14.99,
-                "allergene": [
-
-                ],
-                "notes": [],
+                "notes": ["gefüllt mit Fleisch"],
                 "sideeffects": []
             }
         ],
-        "American Burger": [
+        "AmericanBurger": [
             {
-                "name": "Classic Cheeseburger",
-                "price": 10.99
+                "name": "Original TopGrill Burger",
+                "price": 11.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cheddar, Cocktailsauce"],
+                "sideeffects": []
             },
             {
-                "name": "Bacon Avocado Burger",
-                "price": 11.99
+                "name": "TopGrill Cheeseburgerr",
+                "price": 11.99,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar"],
+                "sideeffects": []
+            },
+            {
+                "name": "TopGrill Hot Burger",
+                "price": 12.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: scharfer Pfefferoni, Tabasco, Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
+                "sideeffects": []
+            },
+            {
+                "name": "TopGrill EggBurger",
+                "price": 13.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
+                "sideeffects": []
+            },
+            {
+                "name": "TopGrill Bacon Burger",
+                "price": 14.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
+                "sideeffects": [
+                    "Nitritpökelsalz",
+                    "Nitrat"
+                ]
+            },
+            {
+                "name": "TopGrill Burger XXL",
+                "price": 16.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
+                "sideeffects": [
+                    "Nitritpökelsalz",
+                    "Nitrat"
+                ]
             }
         ],
-        "Food from Grill": [
+        "GerichteGrill": [
             {
-                "name": "Grilled Ribeye Steak",
-                "price": 21.99
+                "name": "Cevapcici (5 Stück)",
+                "price": 5.70,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Cevapcici (10 Stück)",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
             },
             {
                 "name": "BBQ Chicken Skewers",
-                "price": 13.99
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ],
-        "Vegetarian": [
+        "VegetarischeGerichte": [
             {
                 "name": "Eggplant Parmesan",
                 "price": 12.49
@@ -303,7 +605,7 @@
                 "price": 11.99
             }
         ],
-        "Side Dishes": [
+        "Beilagen": [
             {
                 "name": "Garlic Mashed Potatoes",
                 "price": 3.99
@@ -313,7 +615,7 @@
                 "price": 3.99
             }
         ],
-        "Desserts": [
+        "Nachspeisen": [
             {
                 "name": "Chocolate Lava Cake",
                 "price": 6.99
@@ -323,7 +625,7 @@
                 "price": 7.49
             }
         ],
-        "Alcoholic Drinks": [
+        "AlkoholfreieGetränke": [
             {
                 "name": "Mojito",
                 "price": 8.99
@@ -333,7 +635,7 @@
                 "price": 9.99
             }
         ],
-        "Alcohol Free Drinks": [
+        "AlkoholischeGetränke": [
             {
                 "name": "Virgin Strawberry Daiquiri",
                 "price": 4.99

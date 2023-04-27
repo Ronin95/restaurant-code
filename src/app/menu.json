@@ -1,0 +1,349 @@
+[{
+    "menu": {
+        "Suppen": [
+            {
+                "name": "Hühnersuppe",
+                "price": 5.20,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Weizen"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Kalbsuppe",
+                "price": 5.80,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Weizen"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Lammsuppe",
+                "price": 5.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Weizen"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Serbische Bohnensuppe",
+                "price": 5.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Weizen"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Kuttelfleckersuppe",
+                "price": 8.40,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Fisch/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": [],
+                "sideeffects": []
+            }
+        ],
+        "Salate": [
+            {
+                "name": "Salat mit gegrillten Hühnerstreifen",
+                "price": 10.40,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Mozzarella Salat",
+                "price": 8.40,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Salatschüssel nach Saison",
+                "price": 4.20,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Würziger Käsesalat",
+                "price": 4.10,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Schopska Salat",
+                "price": 4.30,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Gemischter Salat",
+                "price": 4.10,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Paprika Salat",
+                "price": 4.10,
+                "allergene": [
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Scharfe Paprika",
+                "price": 2.70,
+                "allergene": [
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Kraut Salat",
+                "price": 4.00,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Serbischer Salat (scharf)",
+                "price": 4.00,
+                "allergene": [
+                    "Enthält Sojabohnen/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Tomatensalat mit Zwiebeln",
+                "price": 4.00,
+                "allergene": [
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Gurkensalat",
+                "price": 4.00,
+                "allergene": [
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": ["mit Essig-Öl-Marinade"],
+                "sideeffects": []
+            },
+            {
+                "name": "Kartoffelsalat",
+                "price": 4.30,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Griechischer Salat",
+                "price": 5.90,
+                "allergene": [
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Sojabohnen/-Erzeugnisse",
+                    "Enthält Sellerie/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            }
+        ],
+        "Hauptspeisen": [
+            {
+                "name": "Cordon Bleu nach serbischer Art vom Schwein",
+                "price": 14.40,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse"
+                ],
+                "notes": ["mit Pommes frites, Salatgarnierung und Sauce Tartare"],
+                "sideeffects": [
+                    "Nitritpökelsalz",
+                    "Nitrat"
+                ]
+            },
+            {
+                "name": "Cordon Bleu nach serbischer Art vom Huhn",
+                "price": 15.40,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse"
+                ],
+                "notes": ["mit Pommes frites, Salatgarnierung und Sauce Tartare"],
+                "sideeffects": []
+            },
+            {
+                "name": "Wiener Schnitzel",
+                "price": 12.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": ["mit Pommes Frites"],
+                "sideeffects": []
+            },
+            {
+                "name": "Chicken Parmesan",
+                "price": 14.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Chicken Parmesan",
+                "price": 14.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Chicken Parmesan",
+                "price": 14.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Chicken Parmesan",
+                "price": 14.99,
+                "allergene": [
+
+                ],
+                "notes": [],
+                "sideeffects": []
+            }
+        ],
+        "American Burger": [
+            {
+                "name": "Classic Cheeseburger",
+                "price": 10.99
+            },
+            {
+                "name": "Bacon Avocado Burger",
+                "price": 11.99
+            }
+        ],
+        "Food from Grill": [
+            {
+                "name": "Grilled Ribeye Steak",
+                "price": 21.99
+            },
+            {
+                "name": "BBQ Chicken Skewers",
+                "price": 13.99
+            }
+        ],
+        "Vegetarian": [
+            {
+                "name": "Eggplant Parmesan",
+                "price": 12.49
+            },
+            {
+                "name": "Stuffed Bell Peppers",
+                "price": 11.99
+            }
+        ],
+        "Side Dishes": [
+            {
+                "name": "Garlic Mashed Potatoes",
+                "price": 3.99
+            },
+            {
+                "name": "Sweet Potato Fries",
+                "price": 3.99
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Chocolate Lava Cake",
+                "price": 6.99
+            },
+            {
+                "name": "Tiramisu",
+                "price": 7.49
+            }
+        ],
+        "Alcoholic Drinks": [
+            {
+                "name": "Mojito",
+                "price": 8.99
+            },
+            {
+                "name": "Old Fashioned",
+                "price": 9.99
+            }
+        ],
+        "Alcohol Free Drinks": [
+            {
+                "name": "Virgin Strawberry Daiquiri",
+                "price": 4.99
+            },
+            {
+                "name": "Lemonade",
+                "price": 3.49
+            }
+        ]
+    }
+}
+
+]

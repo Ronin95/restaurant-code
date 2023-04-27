@@ -1,1 +1,29 @@
-<p>header works!</p>
+<div class="background-image" [ngStyle]="{'background-image': 'url(' + backgroundImg + ')'}">
+    <nav class="nav-class">
+        <img [src]="'../../assets/img/flames.PNG'" alt="logo" style="width: 150px;">
+        <h1><a href="#fav-foods">Die Favoriten</a></h1>
+        <h1><a href="#menu">Unser Menü</a></h1>
+        <h1><a href="#contact">Kontakt</a></h1>
+    </nav>
+    <div class="title-text">
+        <h1>Ihr Grillmeister Wiens</h1>
+    </div>
+
+    <div class="lower-header">
+        <div class="phone-location-pos">
+            <div class="logo-surrounding">
+                <img [src]="'../../assets/img/phone-logo.png'" alt="phone" [style.width]="'90px'">
+                <h2><a [href]="'tel:+436766627507'">+43 676 66 27 507</a></h2>
+            </div>
+            <div class="logo-surrounding">
+                <img [src]="'../../assets/img/location-logo.png'" alt="location" [style.width]="'90px'">
+                <h2>Payergasse 13, <br>1160 Wien</h2>
+            </div>              
+        </div>
+        <div class="lieferando-stars-pos">
+            <img class="lieferando-pos-logo" [src]="'../../assets/img/lieferando-logo.jpg'" alt="stars" [style.width]="'200px'">
+            <img class="stars-pos" [src]="'../../assets/img/stars-logo.png'" alt="stars" [style.width]="'100px'">
+            <h2><a [href]="'https://www.lieferando.at/speisekarte/top-grill'">Online bestellen</a></h2>
+        </div>   
+    </div>
+</div>

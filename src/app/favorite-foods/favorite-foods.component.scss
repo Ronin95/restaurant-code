@@ -1,0 +1,54 @@
+.fav-foods {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.title-fav-food {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    h1 {
+        font-size: 68px;
+    }
+}
+
+.food-ordering {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.individual-food-pos {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 230px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+    h2 {
+        text-align: center;
+    }
+
+    img {
+        border-radius: 50%;
+    }
+
+    &:hover {
+        background-color: #c85402;
+    }
+}

@@ -1,1 +1,23 @@
-<p>favorite-foods works!</p>
+<div class="fav-foods" id="fav-foods">
+    <div class="title-fav-food">
+        <h1>Beliebte Speisen</h1>
+    </div>
+    <div class="food-ordering">
+        <div class="individual-food-pos" (click)="openFood1()">
+            <img [src]="'../../assets/img/grillplatte.jpg'" alt="mix-grill" [style.width]="'200px'">
+            <h2>Mix Grill <br> Grillplatte</h2>
+        </div>
+        <div class="individual-food-pos" (click)="openFood2()">
+            <img [src]="'../../assets/img/spanferkel.jpg'" alt="spanferkel" [style.width]="'200px'">
+            <h2>Spanferkel</h2>
+        </div>
+        <div class="individual-food-pos" (click)="openFood3()">
+            <img [src]="'../../assets/img/beans.jpg'" alt="Bohnensuppe" [style.width]="'200px'">
+            <h2>Bohnen Suppe</h2>
+        </div>
+        <div class="individual-food-pos" (click)="openFood4()">
+            <img [src]="'../../assets/img/pljeskavica.jpg'" alt="pljeskavica" [style.width]="'200px'">
+            <h2>Pljeskavica</h2>
+        </div>
+    </div>
+</div>

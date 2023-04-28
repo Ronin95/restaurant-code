@@ -1,0 +1,16 @@
+<div>
+  <h1>Grillgerichte</h1>
+  <div class="menu-pos">
+    <mat-card class="card" *ngFor="let grill of grills">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{ grill.name }}</mat-card-title>
+          <mat-card-subtitle>{{ grill.price }}0 €</mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{ grill.descriptionDE }}
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

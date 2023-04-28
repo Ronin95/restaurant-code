@@ -1,0 +1,16 @@
+<div>
+  <h1>Salate</h1>
+  <div class="menu-pos">
+    <mat-card class="card" *ngFor="let salad of salads">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{ salad.name }}</mat-card-title>
+          <mat-card-subtitle>{{ salad.price }}0 €</mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{ salad.descriptionDE }}
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

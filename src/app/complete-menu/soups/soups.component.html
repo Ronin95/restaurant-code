@@ -1,0 +1,16 @@
+<div>
+  <h1>Suppen</h1>
+  <div class="menu-pos">
+    <mat-card class="card" *ngFor="let soup of soups">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{ soup.name }}</mat-card-title>
+          <mat-card-subtitle>{{ soup.price }}0 €</mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{ soup.descriptionDE }}
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

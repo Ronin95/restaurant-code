@@ -1,0 +1,16 @@
+<div>
+  <h1>American Burgers</h1>
+  <div class="menu-pos">
+    <mat-card class="card" *ngFor="let amBurger of amBurgers">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{ amBurger.name }}</mat-card-title>
+          <mat-card-subtitle>{{ amBurger.price }}0 €</mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{ amBurger.descriptionDE }}
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

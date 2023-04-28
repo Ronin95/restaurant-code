@@ -1,6 +1,9 @@
-[{
-    "menu": {
-        "Suppen": [
+[
+  {
+    "menu":
+    {
+        "Suppen":
+        [
             {
                 "name": "Hühnersuppe",
                 "price": 5.20,
@@ -11,7 +14,8 @@
                     "Weizen"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Wohltuend, zartes Hühnerfleisch, reichhaltige Brühe, frisches Gemüse. Wärmt Körper und Seele, Aromen von Fond und Kräutern beleben Gaumen und Sinne."
             },
             {
                 "name": "Kalbsuppe",
@@ -22,7 +26,8 @@
                     "Weizen"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Samtig, zartes Kalbfleisch, kräftige Brühe, feines Wurzelgemüse-Aroma. Unverwechselbarer Geschmack, der nach mehr verlangt."
             },
             {
                 "name": "Lammsuppe",
@@ -33,7 +38,8 @@
                     "Weizen"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Herzhafte Delikatesse, zartes Lammfleisch, würzige Aromen. Reichhaltige Brühe, orientalische Gewürze, frisches Gemüse. Geschmackserlebnis erinnert an ferne Länder."
             },
             {
                 "name": "Serbische Bohnensuppe",
@@ -45,7 +51,8 @@
                     "Weizen"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Kräftige, rauchige Note. Weiße Bohnen, Paprika, Tomaten, geräuchertes Fleisch. Unwiderstehliche, wärmende Suppe erfreut den Gaumen."
             },
             {
                 "name": "Kuttelfleckersuppe",
@@ -58,10 +65,12 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Einzigartige Geschmacksvielfalt, Kutteln, Fleckerln, kräftige Brühe. Harmonische Balance von Würze und Textur, fasziniert den Gaumen."
             }
         ],
-        "Salate": [
+        "Salate":
+        [
             {
                 "name": "Salat mit gegrillten Hühnerstreifen",
                 "price": 10.40,
@@ -69,7 +78,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Frischer Salat, saftige Hühnerstreifen, gegrillt. Geschmackliche Balance, gesundes Genusserlebnis, leicht und proteinreich."
             },
             {
                 "name": "Mozzarella Salat",
@@ -78,7 +88,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Frischer Basilikum, saftige Tomaten, cremiger Mozzarella. Delikates Zusammenspiel, mediterraner Genuss, leicht und erfrischend."
             },
             {
                 "name": "Salatschüssel nach Saison",
@@ -87,7 +98,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Bunte Vielfalt, saisonales Gemüse, knackige Blattsalate. Abwechslungsreich, gesund und voller Aromen, passend zur Jahreszeit."
             },
             {
                 "name": "Würziger Käsesalat",
@@ -97,7 +109,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Aromatischer Käse, frisches Gemüse, würzige Vinaigrette. Pikant, cremig, unverwechselbarer Geschmack, Käseliebhaber-Genuss."
             },
             {
                 "name": "Schopska Salat",
@@ -107,7 +120,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Tomaten, Gurken, Zwiebeln, Paprika, Schafskäse. Frisch, knackig, herzhaft, südosteuropäischer Klassiker mit aromatischem Charakter."
             },
             {
                 "name": "Gemischter Salat",
@@ -116,7 +130,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Vielfältige Zutaten, bunte Farben, knackige Frische. Geschmackliche Harmonie, gesunder Genuss, leicht und bekömmlich."
             },
             {
                 "name": "Paprika Salat",
@@ -126,7 +141,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Gegrillte Paprika, Knoblauch, Olivenöl. Rauchig, aromatisch, schmackhaft, mediterrane Leichtigkeit trifft auf intensiven Geschmack."
             },
             {
                 "name": "Scharfe Paprika",
@@ -136,7 +152,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Feurige Schärfe, kraftvolle Aromen, knackige Konsistenz. Scharfes Geschmackserlebnis, perfekte Beilage, pikant und anregend."
             },
             {
                 "name": "Kraut Salat",
@@ -145,7 +162,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Frisches Weißkraut, süß-saurer Dressing, knackige Textur. Erfrischend, gesund, belebend, idealer Begleiter für deftige Gerichte."
             },
             {
                 "name": "Serbischer Salat (scharf)",
@@ -154,7 +172,8 @@
                     "Enthält Sojabohnen/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Tomaten, Gurken, Zwiebeln, scharfe Paprika. Feuriger Geschmack, südosteuropäisches Flair, perfekt für Schärfe-Liebhaber."
             },
             {
                 "name": "Tomatensalat mit Zwiebeln",
@@ -164,7 +183,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Saftige Tomaten, würzige Zwiebeln, frischer Basilikum. Geschmacksexplosion, süß-herzhaftes Gleichgewicht, sommerlicher Genuss."
             },
             {
                 "name": "Gurkensalat",
@@ -174,7 +194,8 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": ["mit Essig-Öl-Marinade"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Knackige Gurken, feine Dillnote, erfrischendes Dressing. Leicht, gesund, kühlend, ideal für warme Tage."
             },
             {
                 "name": "Kartoffelsalat",
@@ -183,7 +204,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zarte Kartoffeln, cremige Sauce, würzige Akzente. Hausgemachte Köstlichkeit, deftig und dennoch leicht, klassischer Beilagensalat."
             },
             {
                 "name": "Griechischer Salat",
@@ -194,10 +216,12 @@
                     "Enthält Sellerie/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Aromatischer Feta, Oliven, frisches Gemüse. Mediterranes Flair, herzhafter Genuss, idealer Sommersalat mit unverwechselbarem Geschmack."
             }
         ],
-        "Hauptspeisen": [
+        "Hauptspeisen":
+        [
             {
                 "name": "Cordon Bleu nach serbischer Art vom Schwein",
                 "price": 14.40,
@@ -211,7 +235,8 @@
                 "sideeffects": [
                     "Nitritpökelsalz",
                     "Nitrat"
-                ]
+                ],
+                "descriptionDE": "Saftiges Schweinefleisch, herzhafter Käse, würziger Schinken. Goldbraune Panade, serbische Note, unwiderstehlicher Genuss."
             },
             {
                 "name": "Cordon Bleu nach serbischer Art vom Huhn",
@@ -223,7 +248,8 @@
                     "Enthält Senf/-Erzeugnisse"
                 ],
                 "notes": ["mit Pommes frites, Salatgarnierung und Sauce Tartare"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Hühnerfleisch, schmelzender Käse, aromatischer Schinken. Knusprige Hülle, serbischer Twist, geschmackliche Delikatesse."
             },
             {
                 "name": "Wiener Schnitzel",
@@ -234,7 +260,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": ["mit Pommes Frites"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Kalbfleisch, knusprige Panade, goldbraun gebacken. Klassiker der Wiener Küche, leicht, köstlich, unwiderstehlich."
             },
             {
                 "name": "Backhuhn",
@@ -245,7 +272,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": ["Beilage mit Pommes Frites oder Salatgarnierung oder Zwiebeln"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Saftiges Hühnerfleisch, knusprige Kruste, perfekt gewürzt. Kross gebacken, herzhaftes Aroma, goldbraune Delikatesse."
             },
             {
                 "name": "Gebackene Hühnerleber",
@@ -254,7 +282,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zarte Hühnerleber, knusprige Panade, würziger Geschmack. Gebackene Köstlichkeit, außen kross, innen zart."
             },
             {
                 "name": "Paprika gefüllt mit Fleisch",
@@ -263,7 +292,8 @@
 
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Gegrillte Paprika, schmackhaftes Fleisch, würzige Füllung. Mediterrane Leckerbissen, harmonisches Aroma, pikante Note."
             },
             {
                 "name": "Krautroulade",
@@ -272,10 +302,12 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": ["gefüllt mit Fleisch"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Weiches Kraut, herzhafte Fleischfüllung, feine Würze. Traditionelles Gericht, wohltuender Geschmack, wärmender Genuss."
             }
         ],
-        "AmericanBurger": [
+        "AmericanBurger":
+        [
             {
                 "name": "Original TopGrill Burger",
                 "price": 11.90,
@@ -288,10 +320,11 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cheddar, Cocktailsauce"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Saftiges Rindfleisch, frischer Salat, schmackhafte Sauce. Klassischer Genuss, zartes Fleisch, unwiderstehliche Geschmackskomposition."
             },
             {
-                "name": "TopGrill Cheeseburgerr",
+                "name": "TopGrill Cheeseburger",
                 "price": 11.99,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
@@ -302,7 +335,8 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Herzhafter Rindfleischpatty, schmelzender Käse, knackige Zutaten. Köstliche Kombination, cremige Note, Käseliebhaber-Delikatesse."
             },
             {
                 "name": "TopGrill Hot Burger",
@@ -316,7 +350,8 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": ["Wahl aus: scharfer Pfefferoni, Tabasco, Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Feuriges Rindfleisch, scharfe Sauce, pikante Extras. Explosiver Geschmack, feurige Schärfe, würziges Erlebnis."
             },
             {
                 "name": "TopGrill EggBurger",
@@ -330,7 +365,8 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": ["Wahl aus: Zwiebeln, Barbecuesauce, Burgersauce, Cocktailsauce, Cheddar, Rinderspeck, Spiegelei, Wedges"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Rindfleisch, frisch gebratenes Ei, abgerundete Aromen. Köstlicher Akzent, harmonische Kombination, einzigartiger Genuss."
             },
             {
                 "name": "TopGrill Bacon Burger",
@@ -347,7 +383,8 @@
                 "sideeffects": [
                     "Nitritpökelsalz",
                     "Nitrat"
-                ]
+                ],
+                "descriptionDE": "Saftiger Rindfleischpatty, knuspriger Bacon, geschmackvolle Zutaten. Rauchige Note, herzhafte Delikatesse, perfekter Geschmacksbegleiter."
             },
             {
                 "name": "TopGrill Burger XXL",
@@ -364,10 +401,12 @@
                 "sideeffects": [
                     "Nitritpökelsalz",
                     "Nitrat"
-                ]
+                ],
+                "descriptionDE": "Riesiger Rindfleischpatty, frische Beläge, köstliche Sauce. Gigantischer Genuss, üppiges Aroma, ultimative Burger-Erfahrung."
             }
         ],
-        "GerichteGrill": [
+        "GerichteGrill":
+        [
             {
                 "name": "Cevapcici (5 Stück)",
                 "price": 5.70,
@@ -376,7 +415,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Würzige Fleischröllchen, saftig, herzhaft. Balkan-Delikatesse, köstlicher Genuss, ideal als Vorspeise."
             },
             {
                 "name": "Cevapcici (10 Stück)",
@@ -386,7 +426,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Aromatische Fleischröllchen, doppelter Genuss. Geschmacksexplosion, authentisches Balkan-Aroma, perfekte Hauptspeise."
             },
             {
                 "name": "Top Grill Pljeskavica",
@@ -396,7 +437,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": ["300g Fleisch"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Saftiger Fleischpatty, feine Würze, gegrillt. Traditionelles Balkan-Gericht, herzhafter Geschmack, unwiderstehlich."
             },
             {
                 "name": "Pljeskavica",
@@ -406,7 +448,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Klassische Pljeskavica, zartes Fleisch, würzige Noten. Balkan-Klassiker, schmackhaft, gegrillte Köstlichkeit."
             },
             {
                 "name": "Pljeskavica im Netz",
@@ -416,7 +459,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Knusprige Pljeskavica, goldbraune Kruste, zartes Inneres. Gegrillter Genuss, innovative Präsentation, köstliche Textur."
             },
             {
                 "name": "Gefüllte Pljeskavica",
@@ -430,7 +474,8 @@
                 "sideeffects": [
                     "Nitritpökelsalz",
                     "Nitrat"
-                ]
+                ],
+                "descriptionDE": "Herzhafte Füllung, saftiges Fleisch, pikante Aromen. Geschmackliche Überraschung, gefüllter Genuss, Balkan-Highlight."
             },
             {
                 "name": "Schopfsteak",
@@ -440,7 +485,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Schweinefleisch, gegrillt, schmackhaft. Klassische Zubereitung, herzhafter Geschmack, Fleischliebhaber-Freude."
             },
             {
                 "name": "Spieß",
@@ -450,7 +496,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Köstliches Fleisch, gegrillt, aufgespießt. Würzige Marinade, zarte Konsistenz, unverwechselbares Aroma."
             },
             {
                 "name": "Bauchfleisch",
@@ -460,7 +507,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Knuspriges Schweinebauchfleisch, saftig, gegrillt. Goldbraune Kruste, zartes Inneres, geschmackliche Delikatesse."
             },
             {
                 "name": "Schweinefilet",
@@ -470,7 +518,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Filet, gegrillt, feine Würze. Premium Fleischstück, köstliches Aroma, zergeht auf der Zunge."
             },
             {
                 "name": "Schweinefilet im Netz",
@@ -480,7 +529,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Gegrilltes Schweinefilet, knusprige Hülle, zartes Fleisch. Innovatives Design, einzigartige Textur, köstlicher Genuss."
             },
             {
                 "name": "Gegrilltes Cordon Bleu",
@@ -494,7 +544,8 @@
                 "sideeffects": [
                     "Nitritpökelsalz",
                     "Nitrat"
-                ]
+                ],
+                "descriptionDE": "Saftiges Fleisch, schmelzender Käse, aromatischer Schinken. Gegrillte Delikatesse, knusprige Kruste, unwiderstehlicher Geschmack."
             },
             {
                 "name": "Fledermaus (Schalblattel)",
@@ -504,7 +555,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Fleischstück, gegrillt, herzhafte Würze. Ungewöhnlicher Name, köstliches Aroma, geschmacklicher Höhepunkt."
             },
             {
                 "name": "Hausgemachte Grillwurst",
@@ -514,7 +566,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Aromatische Wurst, knusprige Kruste, saftiges Inneres. Traditionelle Zubereitung, unwiderstehlicher Geschmack, gegrillter Genuss."
             },
             {
                 "name": "Rindsleber",
@@ -524,7 +577,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zarte Rindsleber, gegrillt, würzige Aromen. Delikates Organfleisch, herzhafter Geschmack, gesunde Alternative."
             },
             {
                 "name": "Rindsleber im Netz",
@@ -534,7 +588,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Gegrillte Rindsleber, knusprige Hülle, zartes Inneres. Ungewöhnliche Präsentation, delikater Geschmack, gesundes Genusserlebnis."
             },
             {
                 "name": "Gegrillte Schweinedärme",
@@ -544,7 +599,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Knusprige Schweinedärme, saftig, würzig. Authentische Delikatesse, herzhafte Aromen, unverwechselbarer Geschmack."
             },
             {
                 "name": "Hühnersteak",
@@ -555,7 +611,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Hühnerfleisch, goldbraune Kruste, gegrillt. Leichtes, gesundes Gericht, köstliche Aromen, unwiderstehlich."
             },
             {
                 "name": "Gefülltes Hühnersteak",
@@ -568,7 +625,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Saftiges Hühnerfleisch, schmackhafte Füllung, gegrillt. Überraschender Genuss, harmonische Aromen, gefüllte Delikatesse."
             },
             {
                 "name": "Hühnerfilet",
@@ -579,7 +637,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Zartes Hühnerbrustfilet, gegrillt, feine Würze. Leichtes, gesundes Gericht, köstliches Aroma, zergeht auf der Zunge."
             },
             {
                 "name": "Hühnerleber",
@@ -590,7 +649,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Delikate Hühnerleber, gegrillt, würzig. Geschmackvolle Spezialität, gesundes Organfleisch, einzigartiges Aroma."
             },
             {
                 "name": "Gegrillte Hühnerflügerl",
@@ -601,7 +661,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": ["500g Fleisch"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Knusprige Hühnerflügel, saftig, würzig. Fingerfood-Klassiker, goldbraune Delikatesse, unwiderstehlicher Geschmack."
             },
             {
                 "name": "Faschierte Laibchen nach serbischer Art",
@@ -613,7 +674,8 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Würzige Fleischlaibchen, goldbraun gebraten, traditionelle Rezeptur. Balkan-Spezialität, herzhafter Genuss, geschmackliche Vielfalt."
             },
             {
                 "name": "Mixed Grill (für 1 Person)",
@@ -624,21 +686,24 @@
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": ["500g"],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Köstliche Fleischvielfalt, gegrillt, würzige Aromen. Einzelportion, umfangreiches Geschmackserlebnis, Fleischliebhaber-Paradies."
             },
             {
                 "name": "Mixed Grill (für 2 Personen)",
-                "price": 13.99,
+                "price": 13.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Schwefeldioxid/Sulfite",
                     "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": ["Wahl aus: Bauchfleisch, Cevapcici, Cordon Bleu - gegrillt, Fledermaus, Grillwurst und mehr..."],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": "Auswahl gegrillter Fleischspezialitäten, herzhafte Aromen, gemeinsamer Genuss. Perfekt zum Teilen, vielfältige Geschmackswelten, unvergessliches Erlebnis."
             }
         ],
-        "VegetarischeGerichte": [
+        "VegetarischeGerichte":
+        [
             {
                 "name": "Gebackene Paprika gefüllt mit Weißkäse",
                 "price": 10.30,
@@ -648,16 +713,18 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Gegrilltes Gemüse mit Marinade",
                 "price": 9.10,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Gebackener Gouda",
@@ -669,7 +736,8 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Gebackenes Gemüse",
@@ -681,27 +749,31 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             }
         ],
-        "Beilagen": [
+        "Beilagen":
+        [
             {
                 "name": "Reis",
                 "price": 2.80,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Bratkartoffeln",
                 "price": 3.30,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Kartoffelpüree",
@@ -710,7 +782,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Pommes frites",
@@ -719,7 +792,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Urnebes (Käsesalat - scharf)",
@@ -729,7 +803,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Rahmkäse",
@@ -738,7 +813,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Weißkäse",
@@ -747,7 +823,8 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Sauce Tartare",
@@ -757,7 +834,8 @@
                     "Enthält Senf/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Ajvar",
@@ -768,7 +846,8 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Maisbrot mit Käse (3 Stück)",
@@ -778,16 +857,18 @@
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Polenta",
                 "price": 3.40,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Brötchen",
@@ -796,10 +877,12 @@
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             }
         ],
-        "Nachspeisen": [
+        "Nachspeisen":
+        [
             {
                 "name": "Baklava",
                 "price": 3.90,
@@ -808,7 +891,8 @@
                     "Enthält Erdnüsse/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Tulumbe",
@@ -818,7 +902,8 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Palatschinken mit Nuss und Honig",
@@ -829,7 +914,8 @@
                     "Enthält Ei/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Palatschinken mit Nutella",
@@ -841,7 +927,8 @@
                     "Enthält Erdnüsse/-Erzeugnisse"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             },
             {
                 "name": "Palatschinken mit Marmelade",
@@ -853,15 +940,18 @@
                     "Enthält Schwefeldioxid/Sulfite"
                 ],
                 "notes": [],
-                "sideeffects": []
+                "sideeffects": [],
+                "descriptionDE": ""
             }
-        ],
-        "AlkoholfreieGetränke": [
+        ]
+        ,
+        "AlkoholfreieGetränke":
+        [
             {
                 "name": "Coca Cola 0.5l",
                 "price": 2.70,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
@@ -870,7 +960,7 @@
                 "name": "Coca Cola Zero 0.5l",
                 "price": 2.70,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
@@ -879,7 +969,7 @@
                 "name": "Minearlwasser prickelnd 0.5l",
                 "price": 2.10,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
@@ -888,7 +978,7 @@
                 "name": "Eistee Pfirsich 0.5l",
                 "price": 2.40,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
@@ -897,7 +987,7 @@
                 "name": "Eistee Zitrone 0.5l",
                 "price": 2.40,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
@@ -906,24 +996,24 @@
                 "name": "Fanta 0.5l",
                 "price": 2.70,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
             }
         ],
-        "AlkoholischeGetränke": [
+        "AlkoholischeGetränke":
+        [
             {
                 "name": "Wieselburger 0.5l",
                 "price": 2.80,
                 "allergene": [
-                    
+
                 ],
                 "notes": [],
                 "sideeffects": []
             }
         ]
     }
-}
-
+  }
 ]

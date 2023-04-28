@@ -1,0 +1,18 @@
+.title-menu {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    h1 {
+        font-size: 68px;
+    }
+}
+
+.overall-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

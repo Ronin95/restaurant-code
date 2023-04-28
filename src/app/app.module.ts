@@ -24,7 +24,7 @@ import { DessertsComponent } from './complete-menu/desserts/desserts.component';
 import { AlcoholicFreeDrinksComponent } from './complete-menu/alcoholic-free-drinks/alcoholic-free-drinks.component';
 import { AlcoholicDrinksComponent } from './complete-menu/alcoholic-drinks/alcoholic-drinks.component';
 import { HttpClientModule } from '@angular/common/http';
-
+import {MatExpansionModule} from '@angular/material/expansion';
 
 @NgModule({
   declarations: [
@@ -54,7 +54,8 @@ import { HttpClientModule } from '@angular/common/http';
     BrowserAnimationsModule,
     MatDialogModule,
     MatCardModule,
-    HttpClientModule
+    HttpClientModule,
+    MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent]

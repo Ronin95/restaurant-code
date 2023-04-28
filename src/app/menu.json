@@ -380,269 +380,547 @@
             },
             {
                 "name": "Cevapcici (10 Stück)",
-                "price": 13.99,
+                "price": 9.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Top Grill Pljeskavica",
+                "price": 8.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
+                ],
+                "notes": ["300g Fleisch"],
+                "sideeffects": []
+            },
+            {
+                "name": "Pljeskavica",
+                "price": 5.70,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Pljeskavica im Netz",
+                "price": 6.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Gefüllte Pljeskavica",
+                "price": 7.90,
                 "allergene": [
-
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
+                ],
+                "notes": ["enthalten sind Schinken und Käse"],
+                "sideeffects": [
+                    "Nitritpökelsalz",
+                    "Nitrat"
+                ]
+            },
+            {
+                "name": "Schopfsteak",
+                "price": 8.20,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Spieß",
+                "price": 7.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Bauchfleisch",
+                "price": 7.60,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Schweinefilet",
+                "price": 8.80,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Schweinefilet im Netz",
+                "price": 9.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Gegrilltes Cordon Bleu",
+                "price": 10.80,
                 "allergene": [
-
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
+                ],
+                "notes": ["enthalten sind Schinken und Käse"],
+                "sideeffects": [
+                    "Nitritpökelsalz",
+                    "Nitrat"
+                ]
+            },
+            {
+                "name": "Fledermaus (Schalblattel)",
+                "price": 8.30,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Hausgemachte Grillwurst",
+                "price": 7.40,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Rindsleber",
+                "price": 6.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Rindsleber im Netz",
+                "price": 6.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Gegrillte Schweinedärme",
+                "price": 8.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Hühnersteak",
+                "price": 6.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Gefülltes Hühnersteak",
+                "price": 9.70,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Schwefeldioxid/Sulfite",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Hühnerfilet",
+                "price": 8.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Hühnerleber",
+                "price": 6.90,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Gegrillte Hühnerflügerl",
+                "price": 9.30,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Lupine/-nerzeugnisse"
+                ],
+                "notes": ["500g Fleisch"],
+                "sideeffects": []
+            },
+            {
+                "name": "Faschierte Laibchen nach serbischer Art",
+                "price": 8.80,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Schwefeldioxid/Sulfite",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
+                "name": "Mixed Grill (für 1 Person)",
+                "price": 9.60,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
-                "notes": [],
+                "notes": ["500g"],
                 "sideeffects": []
             },
             {
-                "name": "BBQ Chicken Skewers",
+                "name": "Mixed Grill (für 2 Personen)",
                 "price": 13.99,
                 "allergene": [
-
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite",
+                    "Enthält Lupine/-nerzeugnisse"
                 ],
-                "notes": [],
-                "sideeffects": []
-            },
-            {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
-                "allergene": [
-
-                ],
-                "notes": [],
-                "sideeffects": []
-            },
-            {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
-                "allergene": [
-
-                ],
-                "notes": [],
-                "sideeffects": []
-            },
-            {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
-                "allergene": [
-
-                ],
-                "notes": [],
-                "sideeffects": []
-            },
-            {
-                "name": "BBQ Chicken Skewers",
-                "price": 13.99,
-                "allergene": [
-
-                ],
-                "notes": [],
+                "notes": ["Wahl aus: Bauchfleisch, Cevapcici, Cordon Bleu - gegrillt, Fledermaus, Grillwurst und mehr..."],
                 "sideeffects": []
             }
         ],
         "VegetarischeGerichte": [
             {
-                "name": "Eggplant Parmesan",
-                "price": 12.49
+                "name": "Gebackene Paprika gefüllt mit Weißkäse",
+                "price": 10.30,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
             },
             {
-                "name": "Stuffed Bell Peppers",
-                "price": 11.99
+                "name": "Gegrilltes Gemüse mit Marinade",
+                "price": 9.10,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Gebackener Gouda",
+                "price": 8.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Gebackenes Gemüse",
+                "price": 9.40,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Weizen",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ],
         "Beilagen": [
             {
-                "name": "Garlic Mashed Potatoes",
-                "price": 3.99
+                "name": "Reis",
+                "price": 2.80,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
             },
             {
-                "name": "Sweet Potato Fries",
-                "price": 3.99
+                "name": "Bratkartoffeln",
+                "price": 3.30,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Kartoffelpüree",
+                "price": 3.10,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Pommes frites",
+                "price": 3.10,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Urnebes (Käsesalat - scharf)",
+                "price": 1.70,
+                "allergene": [
+                    "Enthält Sellerie/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Rahmkäse",
+                "price": 1.70,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Weißkäse",
+                "price": 2.90,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Sauce Tartare",
+                "price": 1.80,
+                "allergene": [
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Senf/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Ajvar",
+                "price": 1.70,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Maisbrot mit Käse (3 Stück)",
+                "price": 3.60,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Polenta",
+                "price": 3.40,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Brötchen",
+                "price": 1.40,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ],
         "Nachspeisen": [
             {
-                "name": "Chocolate Lava Cake",
-                "price": 6.99
+                "name": "Baklava",
+                "price": 3.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Erdnüsse/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
             },
             {
-                "name": "Tiramisu",
-                "price": 7.49
+                "name": "Tulumbe",
+                "price": 3.70,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Palatschinken mit Nuss und Honig",
+                "price": 4.90,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Palatschinken mit Nutella",
+                "price": 7.49,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Erdnüsse/-Erzeugnisse"
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Palatschinken mit Marmelade",
+                "price": 7.49,
+                "allergene": [
+                    "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
+                    "Enthält Milch/-Erzeugnisse (laktosehaltig)",
+                    "Enthält Ei/-Erzeugnisse",
+                    "Enthält Schwefeldioxid/Sulfite"
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ],
         "AlkoholfreieGetränke": [
             {
-                "name": "Mojito",
-                "price": 8.99
+                "name": "Coca Cola 0.5l",
+                "price": 2.70,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
             },
             {
-                "name": "Old Fashioned",
-                "price": 9.99
+                "name": "Coca Cola Zero 0.5l",
+                "price": 2.70,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Minearlwasser prickelnd 0.5l",
+                "price": 2.10,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Eistee Pfirsich 0.5l",
+                "price": 2.40,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Eistee Zitrone 0.5l",
+                "price": 2.40,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
+            },
+            {
+                "name": "Fanta 0.5l",
+                "price": 2.70,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ],
         "AlkoholischeGetränke": [
             {
-                "name": "Virgin Strawberry Daiquiri",
-                "price": 4.99
-            },
-            {
-                "name": "Lemonade",
-                "price": 3.49
+                "name": "Wieselburger 0.5l",
+                "price": 2.80,
+                "allergene": [
+                    
+                ],
+                "notes": [],
+                "sideeffects": []
             }
         ]
     }

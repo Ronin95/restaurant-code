@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./vegetarian.component.scss']
 })
 export class VegetarianComponent implements OnInit {
+  panelOpenState = false;
   vegies: VegetarianFood[] = [];
 
   constructor(private http: HttpClient) { }

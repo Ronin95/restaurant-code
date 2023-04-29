@@ -1,16 +1,28 @@
-<div>
-  <h1>Vegetarische Gerichte</h1>
-  <div class="menu-pos">
-    <mat-card class="card" *ngFor="let vegie of vegies">
-      <mat-card-header>
-        <mat-card-title-group>
-          <mat-card-title>{{ vegie.name }}</mat-card-title>
-          <mat-card-subtitle>{{ vegie.price }}0 €</mat-card-subtitle>
-        </mat-card-title-group>
-      </mat-card-header>
-      <mat-card-content>
-        {{ vegie.descriptionDE }}
-      </mat-card-content>
-    </mat-card>
-  </div>
-</div>
+<mat-accordion>
+  <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        <h1>Vegetarische Gerichte</h1>
+      </mat-panel-title>
+      <mat-panel-description>
+        Alle Vegetarische Gerichte {{panelOpenState ? 'schließen' : 'öffnen'}}
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="card">
+      <mat-card *ngFor="let vegie of vegies">
+        <mat-card-header>
+          <mat-card-title-group>
+            <mat-card-title>{{ vegie.name }}</mat-card-title>
+            <mat-card-subtitle>{{ vegie.price }}0 €</mat-card-subtitle>
+          </mat-card-title-group>
+        </mat-card-header>
+        <mat-card-content>
+          {{ vegie.descriptionDE }}
+        </mat-card-content>
+        <mat-card-content>
+          <img class="vegie-info" src="../../../assets/img/info.png" alt="info">
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </mat-expansion-panel>
+</mat-accordion>

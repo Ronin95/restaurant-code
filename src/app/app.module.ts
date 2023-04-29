@@ -25,6 +25,9 @@ import { AlcoholicFreeDrinksComponent } from './complete-menu/alcoholic-free-dri
 import { AlcoholicDrinksComponent } from './complete-menu/alcoholic-drinks/alcoholic-drinks.component';
 import { HttpClientModule } from '@angular/common/http';
 import {MatExpansionModule} from '@angular/material/expansion';
+import { InfoSoupComponent } from './complete-menu/soups/info-soup/info-soup.component';
+import { ContactComponent } from './contact/contact.component';
+import { ImprintComponent } from './imprint/imprint.component';
 
 @NgModule({
   declarations: [
@@ -46,7 +49,10 @@ import {MatExpansionModule} from '@angular/material/expansion';
     SideDishesComponent,
     DessertsComponent,
     AlcoholicFreeDrinksComponent,
-    AlcoholicDrinksComponent
+    AlcoholicDrinksComponent,
+    InfoSoupComponent,
+    ContactComponent,
+    ImprintComponent
   ],
   imports: [
     BrowserModule,

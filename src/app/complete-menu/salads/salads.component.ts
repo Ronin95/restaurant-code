@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./salads.component.scss']
 })
 export class SaladsComponent implements OnInit {
+  panelOpenState = false;
   salads: Salad[] = [];
 
   constructor(private http: HttpClient) { }

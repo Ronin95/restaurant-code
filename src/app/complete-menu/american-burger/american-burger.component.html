@@ -1,16 +1,28 @@
-<div>
-  <h1>American Burgers</h1>
-  <div class="menu-pos">
-    <mat-card class="card" *ngFor="let amBurger of amBurgers">
-      <mat-card-header>
-        <mat-card-title-group>
-          <mat-card-title>{{ amBurger.name }}</mat-card-title>
-          <mat-card-subtitle>{{ amBurger.price }}0 €</mat-card-subtitle>
-        </mat-card-title-group>
-      </mat-card-header>
-      <mat-card-content>
-        {{ amBurger.descriptionDE }}
-      </mat-card-content>
-    </mat-card>
-  </div>
-</div>
+<mat-accordion>
+  <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        <h1>American Burgers</h1>
+      </mat-panel-title>
+      <mat-panel-description>
+        Alle American Burgers {{panelOpenState ? 'schließen' : 'öffnen'}}
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="card">
+      <mat-card *ngFor="let amBurger of amBurgers">
+        <mat-card-header>
+          <mat-card-title-group>
+            <mat-card-title>{{ amBurger.name }}</mat-card-title>
+            <mat-card-subtitle>{{ amBurger.price }}0 €</mat-card-subtitle>
+          </mat-card-title-group>
+        </mat-card-header>
+        <mat-card-content>
+          {{ amBurger.descriptionDE }}
+        </mat-card-content>
+        <mat-card-content>
+          <img class="americanBurger-info" src="../../../assets/img/info.png" alt="info">
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </mat-expansion-panel>
+</mat-accordion>

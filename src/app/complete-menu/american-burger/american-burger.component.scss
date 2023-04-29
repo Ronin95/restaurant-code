@@ -1,8 +1,18 @@
-.menu-pos {
+.mat-mdc-form-field + .mat-mdc-form-field {
+  margin-left: 8px;
+}
+
+.card {
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
   gap: 15px;
-  width: 40vw;
+  cursor: pointer;
 }
+
+.americanBurger-info {
+  position: relative;
+  right: 10px;
+  top: 15px;
+  width: 20px;
+}
+

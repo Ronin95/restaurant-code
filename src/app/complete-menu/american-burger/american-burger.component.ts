@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./american-burger.component.scss']
 })
 export class AmericanBurgerComponent implements OnInit {
+  panelOpenState = false;
   amBurgers: AmericanBurgers[] = [];
 
   constructor(private http: HttpClient) { }

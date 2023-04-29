@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./desserts.component.scss']
 })
 export class DessertsComponent implements OnInit {
+  panelOpenState = false;
   nachspeisen: Dessert[] = [];
 
   constructor(private http: HttpClient) { }

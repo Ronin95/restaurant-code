@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./grill.component.scss']
 })
 export class GrillComponent implements OnInit {
+  panelOpenState = false;
   grills: Grill[] = [];
 
   constructor(private http: HttpClient) { }

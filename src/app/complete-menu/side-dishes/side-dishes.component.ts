@@ -25,6 +25,7 @@ interface Data {
   styleUrls: ['./side-dishes.component.scss']
 })
 export class SideDishesComponent implements OnInit {
+  panelOpenState = false;
   beilagen: SideDish[] = [];
 
   constructor(private http: HttpClient) { }

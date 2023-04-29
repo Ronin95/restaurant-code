@@ -1,16 +1,29 @@
-<div>
-  <h1>Beilagen</h1>
-  <div class="menu-pos">
-    <mat-card class="card" *ngFor="let beilage of beilagen">
-      <mat-card-header>
-        <mat-card-title-group>
-          <mat-card-title>{{ beilage.name }}</mat-card-title>
-          <mat-card-subtitle>{{ beilage.price }}0 €</mat-card-subtitle>
-        </mat-card-title-group>
-      </mat-card-header>
-      <mat-card-content>
-        {{ beilage.descriptionDE }}
-      </mat-card-content>
-    </mat-card>
-  </div>
-</div>
+<mat-accordion>
+  <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        <h1>Beilagen</h1>
+      </mat-panel-title>
+      <mat-panel-description>
+        Alle Beilagen {{panelOpenState ? 'schließen' : 'öffnen'}}
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <div class="card">
+      <mat-card *ngFor="let beilage of beilagen">
+        <mat-card-header>
+          <mat-card-title-group>
+            <mat-card-title>{{ beilage.name }}</mat-card-title>
+            <mat-card-subtitle>{{ beilage.price }}0 €</mat-card-subtitle>
+          </mat-card-title-group>
+        </mat-card-header>
+        <mat-card-content>
+          {{ beilage.descriptionDE }}
+        </mat-card-content>
+        <mat-card-content>
+          <img class="beilage-info" src="../../../assets/img/info.png" alt="info">
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </mat-expansion-panel>
+</mat-accordion>
+

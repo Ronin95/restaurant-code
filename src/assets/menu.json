@@ -14,7 +14,7 @@
                     "Weizen"
                 ],
                 "notes": [],
-                "sideeffects": [],
+                "sideeffects": [""],
                 "descriptionDE": "Wohltuend, zartes Hühnerfleisch, reichhaltige Brühe, frisches Gemüse. Wärmt Körper und Seele, Aromen von Fond und Kräutern beleben Gaumen und Sinne."
             },
             {
@@ -412,7 +412,7 @@
                 "price": 5.70,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -423,7 +423,7 @@
                 "price": 9.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -434,7 +434,7 @@
                 "price": 8.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["300g Fleisch"],
                 "sideeffects": [],
@@ -445,7 +445,7 @@
                 "price": 5.70,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -456,7 +456,7 @@
                 "price": 6.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -468,7 +468,7 @@
                 "allergene": [
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)",
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["enthalten sind Schinken und Käse"],
                 "sideeffects": [
@@ -482,7 +482,7 @@
                 "price": 8.20,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -493,7 +493,7 @@
                 "price": 7.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -504,7 +504,7 @@
                 "price": 7.60,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -515,7 +515,7 @@
                 "price": 8.80,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -526,7 +526,7 @@
                 "price": 9.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -538,7 +538,7 @@
                 "allergene": [
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)",
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["enthalten sind Schinken und Käse"],
                 "sideeffects": [
@@ -552,7 +552,7 @@
                 "price": 8.30,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -563,7 +563,7 @@
                 "price": 7.40,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -574,7 +574,7 @@
                 "price": 6.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -585,7 +585,7 @@
                 "price": 6.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -596,7 +596,7 @@
                 "price": 8.90,
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -608,7 +608,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Ei/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -622,7 +622,7 @@
                     "Enthält Ei/-Erzeugnisse",
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)",
                     "Enthält Schwefeldioxid/Sulfite",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -634,7 +634,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Ei/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -646,7 +646,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Ei/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -658,7 +658,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Ei/-Erzeugnisse",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["500g Fleisch"],
                 "sideeffects": [],
@@ -671,7 +671,7 @@
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Milch/-Erzeugnisse (laktosehaltig)",
                     "Enthält Schwefeldioxid/Sulfite",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": [],
                 "sideeffects": [],
@@ -683,7 +683,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Schwefeldioxid/Sulfite",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["500g"],
                 "sideeffects": [],
@@ -695,7 +695,7 @@
                 "allergene": [
                     "Enthält glutenhaltige/s Getreide/-Erzeugnisse",
                     "Enthält Schwefeldioxid/Sulfite",
-                    "Enthält Lupine/-nerzeugnisse"
+                    "Enthält Lupine/-Erzeugnisse"
                 ],
                 "notes": ["Wahl aus: Bauchfleisch, Cevapcici, Cordon Bleu - gegrillt, Fledermaus, Grillwurst und mehr..."],
                 "sideeffects": [],

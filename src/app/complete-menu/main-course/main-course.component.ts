@@ -26,6 +26,7 @@ interface Data {
   styleUrls: ['./main-course.component.scss']
 })
 export class MainCourseComponent implements OnInit {
+  panelOpenState = false;
   mains: Hauptgericht[] = [];
 
   constructor(private http: HttpClient) { }

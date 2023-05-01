@@ -1,11 +1,14 @@
 <div class="background-image" [ngStyle]="{'background-image': 'url(' + backgroundImg + ')'}">
     <div class="logo-nav">
-      <div>
-        <img routerLink="/" [src]="'../../assets/img/flames.PNG'" alt="logo" style="width: 150px;">
+      <div class="logo-img">
+        <img routerLink="/" [src]="'../../assets/img/flames.PNG'" alt="logo">
       </div>
       <div>
-        <nav>
-          <ul class="nav-class no-bullets">
+        <input type="checkbox" id="active" style="display: none;">
+        <label for="active" class="menu-btn"><span></span></label>
+        <label for="active" class="close"></label>
+        <nav class="wrapper">
+          <ul class="wrapper-text no-bullets">
             <li><a href="#fav-foods">Die Favoriten</a></li>
             <li><a href="#menu">Unser Menü</a></li>
             <li><a href="#contact">Kontakt</a></li>
@@ -14,24 +17,24 @@
       </div>
     </div>
     <div class="title-text">
-        <h1>Ihr Grillmeister Wiens</h1>
+      <h1>Ihr Grillmeister Wiens</h1>
     </div>
 
     <div class="lower-header">
-        <div class="phone-location-pos">
-            <div class="logo-surrounding">
-                <img [src]="'../../assets/img/phone-logo.png'" alt="phone" [style.width]="'90px'">
-                <h2><a [href]="'tel:+436766627507'">+43 676 66 27 507</a></h2>
-            </div>
-            <div class="logo-surrounding">
-                <img [src]="'../../assets/img/location-logo.png'" alt="location" [style.width]="'90px'">
-                <h2>Payergasse 13, <br>1160 Wien</h2>
-            </div>
+      <div class="phone-location-pos">
+        <div class="logo-surrounding">
+          <img [src]="'../../assets/img/phone-logo.png'" alt="phone">
+          <h2><a [href]="'tel:+436766627507'">+43 676 66 27 507</a></h2>
         </div>
-        <div class="lieferando-stars-pos">
-            <img class="lieferando-pos-logo" [src]="'../../assets/img/lieferando-logo.jpg'" alt="stars" [style.width]="'200px'">
-            <img class="stars-pos" [src]="'../../assets/img/stars-logo.png'" alt="stars" [style.width]="'100px'">
-            <h2><a [href]="'https://www.lieferando.at/speisekarte/top-grill'" target="_blank">Online bestellen</a></h2>
+        <div class="logo-surrounding">
+          <img [src]="'../../assets/img/location-logo.png'" alt="location">
+          <h2>Payergasse 13, <br>1160 Wien</h2>
         </div>
+      </div>
+      <div class="lieferando-stars-pos">
+        <img class="lieferando-pos-logo" [src]="'../../assets/img/lieferando-logo.jpg'" alt="stars" [style.width]="'200px'">
+        <img class="stars-pos" [src]="'../../assets/img/stars-logo.png'" alt="stars" [style.width]="'100px'">
+        <h2><a [href]="'https://www.lieferando.at/speisekarte/top-grill'" target="_blank">Online bestellen</a></h2>
+      </div>
     </div>
 </div>

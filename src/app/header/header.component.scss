@@ -3,10 +3,18 @@
     justify-content: space-evenly;
     align-items: center;
     color: white;
+    gap: 30px;
 
-    h1 {
+    li {
+        color: white;
         font-size: 30px;
     }
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .background-image {
@@ -97,3 +105,8 @@
     left: 45px;
 }
 
+.logo-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

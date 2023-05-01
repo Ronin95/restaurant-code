@@ -1,10 +1,18 @@
 <div class="background-image" [ngStyle]="{'background-image': 'url(' + backgroundImg + ')'}">
-    <nav class="nav-class">
+    <div class="logo-nav">
+      <div>
         <img routerLink="/" [src]="'../../assets/img/flames.PNG'" alt="logo" style="width: 150px;">
-        <h1><a href="#fav-foods">Die Favoriten</a></h1>
-        <h1><a href="#menu">Unser Menü</a></h1>
-        <h1><a href="#contact">Kontakt</a></h1>
-    </nav>
+      </div>
+      <div>
+        <nav>
+          <ul class="nav-class no-bullets">
+            <li><a href="#fav-foods">Die Favoriten</a></li>
+            <li><a href="#menu">Unser Menü</a></li>
+            <li><a href="#contact">Kontakt</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
     <div class="title-text">
         <h1>Ihr Grillmeister Wiens</h1>
     </div>

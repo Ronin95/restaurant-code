@@ -7,6 +7,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   border-style: dotted;
 }
 
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+a { color: inherit; }
+
 /* ===== Scrollbar CSS ===== */
 /* Firefox */
 * {

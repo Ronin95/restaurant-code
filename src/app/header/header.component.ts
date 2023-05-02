@@ -11,6 +11,6 @@ export class HeaderComponent implements OnInit {
 
   constructor() {}
 
-  backgroundImg = '../assets/img/background.jpg';
+  backgroundImg = './assets/img/background.jpg';
 
 }
